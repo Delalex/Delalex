@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Delalex
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning sketchware
+- 🌱 I’m currently learning С++
 - 📫 How to reach me ... Mail me, team.delalex@gmail.com
 
 <!---
