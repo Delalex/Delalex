@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Delalex
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning С++
-- 📫 How to reach me ... Mail me, team.delalex@gmail.com
+- 📫 How to reach me ? Mail me, team.delalex@gmail.com
 
 <!---
 Delalex/Delalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
