@@ -1,5 +1,6 @@
 
-![icon_git_thumbnail](https://user-images.githubusercontent.com/28227386/173201282-d85e8d4a-263d-4f56-978b-e17616af946c.png)
+![COVER_ITCH](https://user-images.githubusercontent.com/28227386/229909434-9ef2dfd8-21b6-4271-af3e-d21cd2f43880.png)
+
 
 👋 Hi, I’m @Delalex                
 👀 I’m interested in coding                     
