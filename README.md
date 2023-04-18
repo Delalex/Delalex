@@ -1,5 +1,6 @@
 
-![COVER_ITCH](https://user-images.githubusercontent.com/28227386/229909434-9ef2dfd8-21b6-4271-af3e-d21cd2f43880.png)
+![cover2000x600Ddark](https://user-images.githubusercontent.com/28227386/232799271-e4f1bcbe-4b04-4ed9-9ab1-a6a19a76e0fc.png)
+
 
 
 👋 Hi, I’m @Delalex                
