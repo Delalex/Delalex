@@ -1,5 +1,6 @@
 
-![cover2000x600Ddark](https://user-images.githubusercontent.com/28227386/232799271-e4f1bcbe-4b04-4ed9-9ab1-a6a19a76e0fc.png)
+
+![vk_cover_1920_768](https://github.com/Delalex/Delalex/assets/28227386/2eca8a3e-501b-4bd2-9135-b20cf6361c0f)
 
 
 
