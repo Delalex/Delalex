@@ -1,7 +1,6 @@
 
 
-![vk_cover_1920_768](https://github.com/Delalex/Delalex/assets/28227386/2eca8a3e-501b-4bd2-9135-b20cf6361c0f)
-
+![bannerSS — VK](https://github.com/Delalex/Delalex/assets/28227386/37354ba0-037d-4984-a0f2-1ba136e9fef7)        
 
 
 👋 Hi, I’m @Delalex                
