@@ -1,6 +1,7 @@
 
 
-![bannerSS — VK](https://github.com/Delalex/Delalex/assets/28227386/37354ba0-037d-4984-a0f2-1ba136e9fef7)        
+![ss](https://github.com/Delalex/Delalex/assets/28227386/419cce3a-69b3-47d7-8d5f-7cf504476b50)
+
 
 
 👋 Hi, I’m @Delalex                
