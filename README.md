@@ -1,6 +1,7 @@
 
 
-![ss](https://github.com/Delalex/Delalex/assets/28227386/419cce3a-69b3-47d7-8d5f-7cf504476b50)
+![delalex (1)](https://github.com/Delalex/Delalex/assets/28227386/fb1dea0b-5e7b-4408-bfa1-b0441de9649f)
+
 
 
 
